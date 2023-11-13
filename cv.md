@@ -11,7 +11,7 @@ I have good interpersonal skills, I like to work in a team, I am responsible and
 
 ## Skills (in process...)
 - HTML
-- CSS/SASS
+- CSS
 - Git/GitHub
 ## Code Example
 ```
@@ -23,4 +23,4 @@ function multiply(a, b){
 - University: Belarusian State Economic University
   - Accounting, analysis and audit
 ## Languages
-- English - A2 (B1 in process…)
+- English - A2/B1 in process
