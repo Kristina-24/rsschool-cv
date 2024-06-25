@@ -19,3 +19,10 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Education
+- University: Belarusian State Economic University
+  - Accounting, analysis and audit
+
+## Languages
+- English - A2 (B1 only in process)
