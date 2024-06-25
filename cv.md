@@ -8,3 +8,14 @@
 
 ## About Me
 I like to work in a team, I am responsible and reliable. My goal is to learn and develop new skills with the possibility of their application in the future.
+
+## Skills (only in process)
+- HTML
+- CSS/SASS
+- Git/GitHub
+## Code Example
+```
+function multiply(a, b){
+  return a * b;
+}
+```
