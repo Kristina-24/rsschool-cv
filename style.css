@@ -86,3 +86,28 @@
     position: relative;
     padding-left: 30px;
   }
+  .contact-link {
+    text-decoration: none;
+    color: #4f4641;
+  }
+  .footer {
+    background-color: #5d8f90;
+  }
+  .footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .year {
+    color: #fefefe;
+  }
+  .link {
+    text-decoration: none;
+    color: #fefefe;
+    transition: color 0.5s;
+  }
+
+  .link:hover {
+    color: #e93f1d;
+  }
